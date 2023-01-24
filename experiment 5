@@ -1,35 +1,66 @@
-#include <stdio.h>
-#include <string.h>
-
-int S(char*);
-int A(char*);
-
-int main() {
-    char input[100];
-    printf("Enter a string: ");
-    scanf("%s", input);
-    if (S(input) == 1 && strlen(input) == 0) {
-        printf("Accepted\n");
-    } else {
-        printf("Rejected\n");
-    }
-    return 0;
+#include<stdio.h>
+#include<string.h>
+void main()
+{
+char s[100];
+int i,flag,flag1,a,b;
+int l,count1,count2;
+printf("enter a string to check:");
+scanf("%s",s);
+l=strlen(s);
+flag=1;
+for(i=0;i<l;i++)
+{
+if(s[i]!='0' && s[i]!='1')
+{
+ flag=0;
 }
-
-int S(char* input) {
-    if (input[0] == '0') {
-        return S(&input[1]);
-    } else {
-        return A(input);
-    }
 }
-
-int A(char* input) {
-    if (input[0] == '1') {
-        return A(&input[1]);
-    } else if (input[0] == '\0') {
-        return 1;
-    } else {
-        return 0;
-    }
+if(flag!=1)
+printf("string is Not Valid\n");
+if(flag==1)
+{
+i=0;count1=0;
+while(s[i]=='0') 
+{
+count1++;
+i++;
+}
+while(s[i]=='1')
+{
+i++;
+}
+flag1=1;
+count2=0;
+while(i<l)
+{
+if(s[i]=='0')
+{
+count2++;
+}
+else
+{
+flag1=0;
+}
+i++;
+}
+if(flag1==1)
+{
+if(count1==count2)
+ {
+ printf("The string satisfies the condition 0n1m0n\n");
+ printf("String Accepted\n");
+ }
+ else
+ {
+ printf("The string does not satisfy the condition 0n1m0n\n");
+ printf("String Not Accepted\n");
+ }
+}
+else
+ {
+ printf("The string does not satisfy the condition 0n1m0n\n");
+ printf("String Not Accepted\n");
+}
+}
 }
