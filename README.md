@@ -10,7 +10,9 @@ https://github.com/Sivakesa/Theory-of-computation/blob/main/DFA%20starts%20with%
 ![Screenshot (429)](https://user-images.githubusercontent.com/112737435/215338113-0c05b9e3-bbd6-4712-815c-f7d73ceb499e.png)
 #exp no 12 sim
 ![Screenshot (421)](https://user-images.githubusercontent.com/112737435/215370490-5727bb6f-d31a-42ac-b7b0-bcccf398be23.png)
-#exp no 13 sim
+#exp no 14 sim
 ![Screenshot (420)](https://user-images.githubusercontent.com/112737435/215370550-52e176e1-fbcf-46c5-8d70-f988013e2d17.png)
 #exp no 15 sim
 ![Screenshot (424)](https://user-images.githubusercontent.com/112737435/215370582-a6504183-dae6-4c42-84d0-775cc66e6252.png)
+#exp no 13 sim
+![Screenshot (418)](https://user-images.githubusercontent.com/112737435/215370813-810cdc85-143f-426f-b12d-aa0332c44dce.png)
