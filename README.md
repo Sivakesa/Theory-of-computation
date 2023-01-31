@@ -16,3 +16,15 @@ https://github.com/Sivakesa/Theory-of-computation/blob/main/DFA%20starts%20with%
 ![Screenshot (424)](https://user-images.githubusercontent.com/112737435/215370582-a6504183-dae6-4c42-84d0-775cc66e6252.png)
 #exp no 13 sim
 ![Screenshot (418)](https://user-images.githubusercontent.com/112737435/215370813-810cdc85-143f-426f-b12d-aa0332c44dce.png)
+#exp no 18 sim
+![image](https://user-images.githubusercontent.com/112737435/215665927-9c5f4fa1-0fbb-4b62-9b9a-93328ddf6508.png)
+#exp no 20 sim
+![image](https://user-images.githubusercontent.com/112737435/215665978-6fa6f339-c485-411f-a436-e4634ff0b982.png)
+#exp no 21 sim
+![image](https://user-images.githubusercontent.com/112737435/215666021-57475e85-3404-4662-9aa2-d6829e053b07.png)
+#exp no 22 sim
+![image](https://user-images.githubusercontent.com/112737435/215666067-19c6150b-c3f6-47d6-9066-67e2679625c3.png)
+#exp no 23 sim
+![image](https://user-images.githubusercontent.com/112737435/215666106-93897e61-af9e-4cb5-8850-d0e3ca32c250.png)
+#exp no 24 sim
+![image](https://user-images.githubusercontent.com/112737435/215666156-640b732c-594c-43c1-8918-f75637509648.png)
